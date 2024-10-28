@@ -6,29 +6,29 @@ let totalWidth = rectWidth * 12 + spacing * 13; // Total width needed for all re
 let img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12, img13, img14, img15;
 
 function preload() {
-  img1 = loadImage('assets/soon.jpg');
-  img2 = loadImage('assets/helloworld.jpg');
-  img3 = loadImage('assets/stoic.jpg');
-  img4 = loadImage('assets/concrete.jpg');
-  img5 = loadImage('assets/TS.jpg');
-  img6 = loadImage('assets/FIGHTPP.jpg');
-  img7 = loadImage('assets/card4-1.jpg');
-  img8 = loadImage('assets/card4-2.jpg');
-  img9 = loadImage('assets/card4-3.jpg');
-  img10 = loadImage('assets/card5.jpg');
-  img11 = loadImage('assets/card5_2.jpg');
-  img12 = loadImage('assets/FORMS.jpg');
-  img13 = loadImage('assets/w6.jpg');
-  img14 = loadImage('assets/w6-02.jpg');
-  img15 = loadImage('assets/w6-03.jpg');
-  img16 = loadImage('assets/w9.jpg');
-  img17 = loadImage('assets/w9_2.jpg');
-  img18 = loadImage('assets/w10.jpg');
-  img19 = loadImage('assets/w10_2.jpg');
-  img20 = loadImage('assets/w11.jpg');
-  img21 = loadImage('assets/w12.jpg');
-  img22 = loadImage('assets/w12_2.jpg');
-  img23 = loadImage('assets/w12_3.jpg');
+  img1 = loadImage('soon.jpg');
+  img2 = loadImage('helloworld.jpg');
+  img3 = loadImage('stoic.jpg');
+  img4 = loadImage('concrete.jpg');
+  img5 = loadImage('TS.jpg');
+  img6 = loadImage('FIGHTPP.jpg');
+  img7 = loadImage('card4-1.jpg');
+  img8 = loadImage('card4-2.jpg');
+  img9 = loadImage('card4-3.jpg');
+  img10 = loadImage('card5.jpg');
+  img11 = loadImage('card5_2.jpg');
+  img12 = loadImage('FORMS.jpg');
+  img13 = loadImage('w6.jpg');
+  img14 = loadImage('w6-02.jpg');
+  img15 = loadImage('w6-03.jpg');
+  img16 = loadImage('w9.jpg');
+  img17 = loadImage('w9_2.jpg');
+  img18 = loadImage('w10.jpg');
+  img19 = loadImage('w10_2.jpg');
+  img20 = loadImage('w11.jpg');
+  img21 = loadImage('w12.jpg');
+  img22 = loadImage('w12_2.jpg');
+  img23 = loadImage('w12_3.jpg');
 }
 
 function setup() {
