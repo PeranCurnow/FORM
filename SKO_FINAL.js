@@ -13,7 +13,7 @@ function preload() {
   img5 = loadImage('TS.jpg');
   img6 = loadImage('FIGHTPP.jpg');
   img7 = loadImage('card4-1.jpg');
-  img8 = loadImage('CARD4-2.jpg');
+  img8 = loadImage('card4-2.jpg');
   img9 = loadImage('card4-3.jpg');
   img10 = loadImage('card5.jpg');
   img11 = loadImage('card5_2.jpg');
